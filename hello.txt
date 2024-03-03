@@ -2,3 +2,6 @@ hello World!
 Its me, Mario
 I like coocking
 Chipi Chipi Chapa Chapa
+
+Lorem ipsum dollar
+hash Open lock
